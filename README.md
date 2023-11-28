@@ -29,6 +29,7 @@
 
 
 ### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
+![image](https://github.com/Munimadhuriganji/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138849444/83ea9e1b-c6ae-4f3b-a7a6-50fd4247d40b)
 
 
 ### Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
